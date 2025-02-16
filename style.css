@@ -267,6 +267,7 @@ span {
 
     p {
         font-size: 25%;
+        text-wrap: wrap;
     }
 
     span {
