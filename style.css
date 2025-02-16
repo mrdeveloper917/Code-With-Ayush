@@ -240,7 +240,7 @@ span {
     }
 
     .buttons button {
-        margin: 8px;
+        margin: 5px;
         padding: 5px;
     }
 
@@ -258,7 +258,7 @@ span {
     }
 
     h3 {
-        font-size: 35%;
+        font-size: 45%;
     }
 
     h5 {
@@ -266,8 +266,8 @@ span {
     }
 
     p {
-        font-size: 25%;
-        line-break: auto;
+        font-size: 1.5vw;
+        
     }
 
     span {
