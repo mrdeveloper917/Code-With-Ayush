@@ -196,15 +196,15 @@ span {
 }
 
 
-@media (max-width:900px) {
+@media (max-width:1200px) {
 
     .sidebar nav {
-        padding: 5px;
+        padding: 4px;
     }
 
     .sidebar nav li {
         list-style: none;
-        font-size: 40%;
+        font-size: 42%;
         padding: 5vh 0;
         margin-left: 5px;
     }
@@ -218,7 +218,7 @@ span {
     }
 
     .infocontanier {
-        background-color: blue;
+        /* background-color: blue; */
         width: 78vw;
         height: 60vh;
         /* margin: 144px auto; */
