@@ -276,4 +276,17 @@ span {
         color: #6b7280;
         font-size: 50%;
     }
+
+    .sub_part {
+        /* background-color: blue; */
+        width: 50vw;
+        height: 20vh;
+        padding: 0.4rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        unicode-bidi: isolate;
+        float: left;
+        margin-left: 25px;
+    }
 }
